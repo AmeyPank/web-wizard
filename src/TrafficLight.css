@@ -24,6 +24,13 @@
     background-color: green;
 }
 
-.active {
-    box-shadow: 0 0 10px #787777, 0 0 20px #413f3f, 0 0 30px #6b6868;
+.red.active {
+    box-shadow: 0 0 10px #c45353, 0 0 20px #bd1212, 0 0 30px #a21717;
+}
+.yellow.active {
+    box-shadow: 0 0 10px #e2d410, 0 0 20px #cad620, 0 0 30px #b9e618;
+}
+
+.green.active {
+    box-shadow: 0 0 10px #1cf64f, 0 0 20px #44a041, 0 0 30px #43a950;
 }
